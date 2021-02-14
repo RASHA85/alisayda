@@ -1,2 +1,0 @@
-# alisayda
-how git work
